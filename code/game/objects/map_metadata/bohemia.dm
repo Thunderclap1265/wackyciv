@@ -1,4 +1,4 @@
-=/obj/map_metadata/bohemia
+/obj/map_metadata/bohemia
 	ID = MAP_BOHEMIA
 	title = "Bohemia"
 	lobby_icon_state = "medieval"
