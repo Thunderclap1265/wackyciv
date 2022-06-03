@@ -24,7 +24,7 @@
 	faction2 = RUSSIAN
 	valid_weather_types = list(WEATHER_NONE, WEATHER_WET)
 	songs = list(
-		"Teufelslied Instrumental:1" = "sound/music/teufelslied.ogg",)
+		"t:1" = "sound/music/t.ogg",)
 	gamemode = "Siege"
 obj/map_metadata/reichstag/job_enabled_specialcheck(var/datum/job/J)
 	..()
