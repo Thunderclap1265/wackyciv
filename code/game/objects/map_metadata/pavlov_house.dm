@@ -23,7 +23,7 @@
 	faction2 = RUSSIAN
 	valid_weather_types = list(WEATHER_NONE, WEATHER_WET)
 	songs = list(
-		"Red Army Choir - Katyusha:1" = "sound/music/katyusha.ogg",)
+		"Teufelslied Instrumental:1" = "sound/music/teufelslied.ogg",)
 	gamemode = "Siege"
 
 /obj/map_metadata/pavlov_house/job_enabled_specialcheck(var/datum/job/J)
